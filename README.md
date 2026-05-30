@@ -121,7 +121,7 @@ pip install -r requirements.txt
 ### 3. Run the notebook
 Open in **Google Colab** (recommended) or Jupyter:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/trustworthy-credit-scoring/blob/main/Trustworthy_Credit_Scoring_LightGBM_SHAP_LIME.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sourourha266/trustworthy-credit-scoring/blob/main/Trustworthy_Credit_Scoring_LightGBM_SHAP_LIME.ipynb)
 
 > The notebook downloads the German Credit dataset automatically from the UCI repository — no manual download needed.
 
